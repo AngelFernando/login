@@ -31,7 +31,7 @@ import { environment } from '../environments/environment';
     FormsModule,
     AngularFireAuthModule,
     AngularFireModule.initializeApp(environment.firebaseConfig),
-    
+
   ],
   providers: [AuthService],
   bootstrap: [AppComponent]
