@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,EAAC,WAAW,EAAC,YAAY,CAAA;EAClC,KAAK,EAAE,GAAG;CACb;;AACD,AAAA,aAAa,CAAA;EACT,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,IAAI;CACd;;AACD,AAAA,WAAW,CAAA;EACP,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,IAAI;CACd;;AACD,AAAA,YAAY,CAAA;EACR,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "loginpage.component.scss"
+    ],
+    "names": [],
+    "file": "loginpage.component.css"
+}
